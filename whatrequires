@@ -1,3 +1,6 @@
 # This file contains recursive sources that require this package
+R-RSQLite
+R-bit
 R-bit64
 R-ff
+R-glue
