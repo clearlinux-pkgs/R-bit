@@ -4,7 +4,7 @@
 #
 Name     : R-bit
 Version  : 1.1.12
-Release  : 9
+Release  : 10
 URL      : https://cran.r-project.org/src/contrib/bit_1.1-12.tar.gz
 Source0  : https://cran.r-project.org/src/contrib/bit_1.1-12.tar.gz
 Summary  : A class for vectors of 1-bit booleans
