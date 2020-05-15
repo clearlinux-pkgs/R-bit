@@ -4,7 +4,7 @@
 #
 Name     : R-bit
 Version  : 1.1.15.2
-Release  : 34
+Release  : 35
 URL      : https://cran.r-project.org/src/contrib/bit_1.1-15.2.tar.gz
 Source0  : https://cran.r-project.org/src/contrib/bit_1.1-15.2.tar.gz
 Summary  : A Class for Vectors of 1-Bit Booleans
@@ -37,10 +37,10 @@ export http_proxy=http://127.0.0.1:9/
 export https_proxy=http://127.0.0.1:9/
 export no_proxy=localhost,127.0.0.1,0.0.0.0
 export LANG=C.UTF-8
-export SOURCE_DATE_EPOCH=1589400745
+export SOURCE_DATE_EPOCH=1589509139
 
 %install
-export SOURCE_DATE_EPOCH=1589400745
+export SOURCE_DATE_EPOCH=1589509139
 rm -rf %{buildroot}
 export LANG=C.UTF-8
 export CFLAGS="$CFLAGS -O3 -flto -fno-semantic-interposition "
