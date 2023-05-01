@@ -4,7 +4,7 @@
 #
 Name     : R-bit
 Version  : 4.0.5
-Release  : 58
+Release  : 59
 URL      : https://cran.r-project.org/src/contrib/bit_4.0.5.tar.gz
 Source0  : https://cran.r-project.org/src/contrib/bit_4.0.5.tar.gz
 Summary  : Classes and Methods for Fast Memory-Efficient Boolean Selections
