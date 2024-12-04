@@ -1,5 +1,5 @@
 PKG_NAME := R-bit
-URL = https://cran.r-project.org/src/contrib/bit_4.5.0.tar.gz
+URL = https://ftp.osuosl.org/pub/cran/src/contrib/bit_4.5.0.1.tar.gz
 ARCHIVES = 
 
 include ../common/Makefile.common
